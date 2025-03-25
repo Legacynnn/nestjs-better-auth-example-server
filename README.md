@@ -100,3 +100,4 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 # nestjs-better-auth-example
 # nestjs-better-auth-example
 # nestjs-better-auth-example-server
+# nestjs-better-auth-example-server
