@@ -1803,25 +1803,6 @@ base64-js@^1.3.1:
   resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.5.1.tgz#1b1b440160a5bf7ad40b650f095963481903930a"
   integrity sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==
 
-better-auth@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/better-auth/-/better-auth-1.2.4.tgz#2ca4fa3e8ea486149f60d451c6f6501d550653cf"
-  integrity sha512-/ZK2jbUjm8JwdeCLFrUWUBmexPyI9PkaLVXWLWtN60sMDHTY8B5G72wcHglo1QMFBaw4G0qFkP5ayl9k6XfDaA==
-  dependencies:
-    "@better-auth/utils" "0.2.3"
-    "@better-fetch/fetch" "^1.1.15"
-    "@noble/ciphers" "^0.6.0"
-    "@noble/hashes" "^1.6.1"
-    "@simplewebauthn/browser" "^13.0.0"
-    "@simplewebauthn/server" "^13.0.0"
-    better-call "^1.0.3"
-    defu "^6.1.4"
-    jose "^5.9.6"
-    kysely "^0.27.6"
-    nanostores "^0.11.3"
-    valibot "1.0.0-beta.15"
-    zod "^3.24.1"
-
 "better-auth@https://pkg.pr.new/better-auth/better-auth@f8a949f":
   version "1.2.4-beta.10"
   resolved "https://pkg.pr.new/better-auth/better-auth@f8a949f#8db693f9779c071043757121aec229a2cc486a05"
